@@ -1,0 +1,6 @@
+max_width = 5
+counter = 0
+
+while counter < 5:
+    print((max_width - counter) * "*")
+    counter += 1
