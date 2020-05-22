@@ -1,0 +1,5 @@
+width = 10
+length = 4
+
+for i in range(length):
+    print(width * "*")
